@@ -15,3 +15,5 @@ socket.on('codeChange', (data) => {
 
 Deploy: `docker-compose up`
 Tech: Socket.io + React + Node
+
+# PR Merge: 2025-10-15 - feature/merge-3624
